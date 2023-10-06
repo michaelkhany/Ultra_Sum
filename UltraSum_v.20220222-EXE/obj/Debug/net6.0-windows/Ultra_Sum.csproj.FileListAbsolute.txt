@@ -1,0 +1,17 @@
+D:\Codes\CSharp\Ultra_Sum\bin\Debug\net6.0-windows\Ultra_Sum.exe
+D:\Codes\CSharp\Ultra_Sum\bin\Debug\net6.0-windows\Ultra_Sum.deps.json
+D:\Codes\CSharp\Ultra_Sum\bin\Debug\net6.0-windows\Ultra_Sum.runtimeconfig.json
+D:\Codes\CSharp\Ultra_Sum\bin\Debug\net6.0-windows\Ultra_Sum.dll
+D:\Codes\CSharp\Ultra_Sum\bin\Debug\net6.0-windows\Ultra_Sum.pdb
+D:\Codes\CSharp\Ultra_Sum\obj\Debug\net6.0-windows\Ultra_Sum.csproj.AssemblyReference.cache
+D:\Codes\CSharp\Ultra_Sum\obj\Debug\net6.0-windows\Ultra_Sum.FormMain.resources
+D:\Codes\CSharp\Ultra_Sum\obj\Debug\net6.0-windows\Ultra_Sum.csproj.GenerateResource.cache
+D:\Codes\CSharp\Ultra_Sum\obj\Debug\net6.0-windows\Ultra_Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\CSharp\Ultra_Sum\obj\Debug\net6.0-windows\Ultra_Sum.AssemblyInfoInputs.cache
+D:\Codes\CSharp\Ultra_Sum\obj\Debug\net6.0-windows\Ultra_Sum.AssemblyInfo.cs
+D:\Codes\CSharp\Ultra_Sum\obj\Debug\net6.0-windows\Ultra_Sum.csproj.CoreCompileInputs.cache
+D:\Codes\CSharp\Ultra_Sum\obj\Debug\net6.0-windows\Ultra_Sum.dll
+D:\Codes\CSharp\Ultra_Sum\obj\Debug\net6.0-windows\refint\Ultra_Sum.dll
+D:\Codes\CSharp\Ultra_Sum\obj\Debug\net6.0-windows\Ultra_Sum.pdb
+D:\Codes\CSharp\Ultra_Sum\obj\Debug\net6.0-windows\Ultra_Sum.genruntimeconfig.cache
+D:\Codes\CSharp\Ultra_Sum\obj\Debug\net6.0-windows\ref\Ultra_Sum.dll

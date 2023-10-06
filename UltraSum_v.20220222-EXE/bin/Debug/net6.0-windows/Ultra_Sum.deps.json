@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ultra_Sum/1.0.0": {
+        "runtime": {
+          "Ultra_Sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ultra_Sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
